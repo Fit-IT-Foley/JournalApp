@@ -1,0 +1,11 @@
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\bin\Debug\netcoreapp2.0\JournalApp.deps.json
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\bin\Debug\netcoreapp2.0\JournalApp.runtimeconfig.json
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\bin\Debug\netcoreapp2.0\JournalApp.runtimeconfig.dev.json
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\bin\Debug\netcoreapp2.0\JournalApp.dll
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\bin\Debug\netcoreapp2.0\JournalApp.pdb
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.csprojResolveAssemblyReference.cache
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.csproj.CoreCompileInputs.cache
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.AssemblyInfoInputs.cache
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.AssemblyInfo.cs
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.dll
+C:\Users\Pfeiff\source\repos\JournalApp\JournalApp\obj\Debug\netcoreapp2.0\JournalApp.pdb
